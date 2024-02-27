@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Raskar</h1>
 <h3 align="center">COEP CSE</h3>
 
-<img align="centre" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <!--
 **AdityaRaskar/AdityaRaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
