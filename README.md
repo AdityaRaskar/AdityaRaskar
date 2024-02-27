@@ -1,5 +1,5 @@
 
-![logo](https://github.com/AdityaRaskar/AdityaRaskar/blob/main/Github_Banner.png)
+![logo](https://github.com/AdityaRaskar/AdityaRaskar/blob/main/Github_Coverpage.png)
 <h1 align="center">Hi 👋, I'm Aditya Raskar</h1>
 <h3 align="center">COEP CSE</h3>
 
