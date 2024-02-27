@@ -1,5 +1,7 @@
-### Hi there 👋
 
+![logo](https://github.com/AdityaRaskar/AdityaRaskar/blob/main/Github_Banner.png)
+<h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
+<h3 align="center">COEP CSE</h3>
 <!--
 **AdityaRaskar/AdityaRaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
